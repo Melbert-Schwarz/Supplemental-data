@@ -1,0 +1,10 @@
+samples.out,species,replicate,sample.type
+ODBF,OD,B,F
+ODBFF,OD,B,FF
+ODBLF,OD,B,LF
+ODCF,OD,C,F
+ODCFF,OD,C,FF
+ODCLF,OD,C,LF
+ODDF,OD,D,F
+ODDFF,OD,D,FF
+ODDLF,OD,D,LF
